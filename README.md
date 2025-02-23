@@ -6,3 +6,6 @@ This project revovles around retooling the 2019-2020 NBA Lakers team roster usin
 
 ## Methodology
 We first focus on the weakness of the 2019-2020 Lakers lineup by comparing them to other teams in various different metrics, such as 3P, FT, TOV, BLK, etc. We then shift our focus on examining the players within the team indivdually on the same metrics. As we wrap up our internal assessment, we look at the players available in the upcoming free agency that the Lakers management can sign given their remaining slary cap space. Assuming the newly signed players perform as well as they did historically in the past, we then re-assemble the LA Lakers and assess how much the roster has improved based on the same established metrics, comparing the new lineup with other teams as well as our performance this 2019-2020 season. 
+
+## Medium Article Link
+For a cleaner and more streamlined reading experience, please visit my Medium article link: https://medium.com/@maxchen1430/revamped-2019-2020-lakers-roster-a23d207b6aae 
